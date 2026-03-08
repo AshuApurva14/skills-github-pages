@@ -1,4 +1,7 @@
-## Using GitHub Actions on Pull Request
+---
+title: "Using GitHub Actions on Pull Request"
+date: 2026-03-08
+---
 
 **Setting up GitHub Actions on Pull Requests**
 
