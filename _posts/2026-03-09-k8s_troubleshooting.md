@@ -14,7 +14,7 @@ The following errors will be discussed:
 
 **Container CRASHBACKLOOP issue**
 
-<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/625d39a0-90a9-4297-b626-eb2ea2e64f52" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/625d39a0-90a9-4297-b626-eb2ea2e64f52" />
 
 1. The CRASHBACKLOOP issue is generally encountered when the container crashes due to an  internal code failure or is unable to connect to its required dependencies. 
 2. The Kubelet is responsible for creating the pods and starting the containers inside them. As containers keep crashing, the kubelet tries to restart, leading to a crash loop.
